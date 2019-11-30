@@ -4,6 +4,7 @@ This repository consists of the paper publications that I have accomplished duri
 "Sachin_Saj_2019_IOP- "Significance of Incorporating Chebfun Function in Improved Machine Condition Monitoring System" Published in IOP Science Conference (UK based) and the slides for the conference is also attached.
 
 ### UGC Approved Journals
+
 1. A Basic Smart Stick for Visually Imapaired Persons (Published in International Journal for Research in Applied Science and Engineering Technology (IJRASET))
 
 2.An Efficient System for Water Level Indication System for Agricultural Purposes (Published in International Journal for Research in 
