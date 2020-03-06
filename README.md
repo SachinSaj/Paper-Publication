@@ -1,7 +1,11 @@
 # Paper-Publication
 This repository consists of the paper publications that I have accomplished during my academics.
 ### Scopus-Indexed paper
-"Sachin_Saj_2019_IOP- "Significance of Incorporating Chebfun Function in Improved Machine Condition Monitoring System" Published in IOP Science Conference (UK based) and the slides for the conference is also attached.
+1. "Sachin_Saj, "Significance of Incorporating Chebfun Function in Improved Machine Condition Monitoring System", International Conference on Materials Science and Manufacturing Technology (ICMSMT), IOPScience, 2019 
+
+2. Sachin Saj, Sowmya V, Gopika, "Facial Emotional Recognition using Shallow CNN", Symposium on Machine Learning and Metaheuristics Algorithms, and Applications (SoMMA'19), Springer Proceeding, 2019.
+
+3. Sachin Saj, Sowmya V, "Performance_Analysis_of_Segmentor_Adversarial_Network__SegAN__in_Bio_Medical_Images_for_Image_Segmentation", The International Conference on Automation, Signal Processing, Instrumentation and Control (i'CASIC 2020), Springer Proceeding, 2020
 
 ### UGC Approved Journals
 
